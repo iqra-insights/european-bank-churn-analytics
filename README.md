@@ -66,11 +66,7 @@ The result is an interactive dashboard plus a validated machine learning risk mo
 
 ## 🖼️ Dashboard Preview
 
-*Add a screenshot or short GIF of the dashboard here — this is the single highest-impact addition you can make. Drag an image into this spot in GitHub's editor, or reference it like:*
-
-```markdown
 ![Dashboard Screenshot](https://raw.githubusercontent.com/iqra-insights/european-bank-churn-analytics/main/dashboard_preview.png)
-```
 
 ---
 
