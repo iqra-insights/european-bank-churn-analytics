@@ -10,7 +10,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**🔗 [Live Demo](#) — add your Streamlit Cloud link here once deployed**
+**🔗 [Live Demo](https://iqra-churn-analytics.streamlit.app)**
 
 *Unified Mentor Internship Project · Customer Segmentation & Churn Pattern Analytics in European Banking*
 
@@ -69,7 +69,7 @@ The result is an interactive dashboard plus a validated machine learning risk mo
 *Add a screenshot or short GIF of the dashboard here — this is the single highest-impact addition you can make. Drag an image into this spot in GitHub's editor, or reference it like:*
 
 ```markdown
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/iqra-insights/european-bank-churn-analytics/main/dashboard_preview.png)
 ```
 
 ---
